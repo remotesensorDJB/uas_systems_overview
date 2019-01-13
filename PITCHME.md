@@ -49,19 +49,27 @@
 > - communications between the two
 ---
 @title[Modern small UAS]
-### Modern small UAS/imaging drones
+### small UAS/imaging drones
 - Standard Elements
  - UAV/drone 
  - Mission planning element
  - Command and control element
 +++
-### Modern small UAS/imaging drones
+### small UAS/imaging drones
 - Standard Elements
  - Communication link
  - Payload (cameras/sensors/etc)
  - Launch and recovery element (if required)
 ---
-### Modern small UAS/imaging drones
+### UAS Classifications
+Many ways to group...
+![Classification Factors](images/classification-factors.JPG)
+https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf 
++++
+### UAS Classifications
+![https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf](images/uas-classes.JPG)
+https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf
+### small UAS/imaging drones
 #### Fixed wing vs multirotor
 - Fixed wing
  - Simpler structure
@@ -69,7 +77,7 @@
  - Bigger payloads (larger sensors)
  - No stationary flight
 +++
-### Modern small UAS/imaging drones
+### small UAS/imaging drones
 #### Fixed wing vs multirotor
 - Multirotor
  - vertical takeoff and landing

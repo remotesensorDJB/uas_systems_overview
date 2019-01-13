@@ -39,7 +39,7 @@
 ![Ryan Firebee](https://i.kinja-img.com/gawker-media/image/upload/s--svYJ1H1Y--/c_fit,fl_progressive,q_80,w_636/18xtsh8x6qow8jpg.jpg)
 ###### [Ryan Firebee (Vietnam era)](https://gizmodo.com/the-ryan-firebee-grandfather-to-the-modern-uav-1155938222)
 +++
-![Predator drone](http://images02.military.com/media/equipment/military-aircraft/mq-1b-predator/mq-1b-predator_009-ts600.jpg)
+![Predator drone](https://www.americansecurityproject.org/wp-content/uploads/2012/08/800px-MQ-9_Reaper_UAV1.jpg)
 ###### [Predator/Reaper drone (current era)](https://foxtrotalpha.jalopnik.com/the-air-force-is-retiring-the-predator-drone-for-the-mo-1792832541)
 ---
 ### A definition

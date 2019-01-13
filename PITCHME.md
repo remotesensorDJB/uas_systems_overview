@@ -111,6 +111,9 @@ Many ways to group...
 ### Multirotor: DJI Matrice/Inspire
 ![Matrice-Inspire](https://www.heliguy.com/blog/wp-content/uploads/2017/02/Heliguy-Matrice_200_VS_Matrice_600_Pro_VS_Inspire_2-Header-1000x523.png)
 +++
+### Common UAS models
+![UAS Table](images/uas_table.JPG)
++++
 ### Meow-lti-rotor: Orville the Drone Cat
 ![Orville the drone cat](https://www.youtube.com/embed/fsdLU6D5PMo?start=27)
 ---
@@ -124,7 +127,18 @@ UAS systems consist of a number of different subsystems fulfilling various funct
 ### Airframe and Powerplant
 The UAS body/chassis, and the parts that make it "go".
 +++
-### 
+### General Anatomy
+#### Multirotor
+![drone anatomy](images/drone-anatomy.JPG)
++++
+### General Anatomy
+#### Fixed Wing
+![drone anatomy](images/fixed-wing-anatomy.JPG)
++++ 
+### Boom/Motor Mount/Motors
+![boom/motor](images/boom-motors.JPG) 
++++
+### Propellers/Rotors
 
 
 

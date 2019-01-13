@@ -116,10 +116,10 @@ Many ways to group...
 ---
 ### UAS Subsystems
 UAS systems consist of a number of different subsystems fulfilling various functions...
-1.) Airframe and Powerplant |
-2.) Flight Control and State Estimation |
-3.) Communications |
-4.) Imaging Systems |
+- 1.) Airframe and Powerplant |
+- 2.) Flight Control and State Estimation |
+- 3.) Communications |
+- 4.) Imaging Systems |
 +++
 ### Airframe and Powerplant
 The UAS body/chassis, and the parts that make it "go".

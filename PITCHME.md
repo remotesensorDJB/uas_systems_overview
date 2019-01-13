@@ -27,7 +27,7 @@
 ![Queen Bee](http://www.vintagewings.ca/Portals/0/Vintage_Stories/News%20Stories%20K/The%20Mother%20of%20All%20Drones/TenStories24.jpg)
 ###### [British and U.S. radio-controlled aircraft (1930s)](http://www.vintagewings.ca/VintageNews/Stories/tabid/116/articleType/ArticleView/articleId/484/The-Mother-of-All-Drones.aspx)
 +++
-![Curtiss N2C-2](https://img.rcgroups.com/http://nasgi.net/n2c2.jpg?h=TVnm0I-AEoS02IMVZnxjFw)
+![Curtiss N2C-2](https://spark.adobe.com/page/1ii0s1dA1odNN/images/dab03e82-a05c-4747-ab69-010e28cdcaaf.png?asset_id=e204943d-8e5c-480e-92c5-bca3361ea623&img_etag=988985fdfc88794db2e16d98d0bb756b&size=1024)
 ###### [British and U.S. radio-controlled aircraft (1930s)](http://www.navalaviationmuseum.org/attractions/aircraft-exhibits/item/?item=n2c)
 +++
 ![Queen Bee ops](http://www.vintagewings.ca/Portals/0/Vintage_Stories/News%20Stories%20K/The%20Mother%20of%20All%20Drones/Shangrila3.jpg)

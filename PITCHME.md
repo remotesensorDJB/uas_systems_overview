@@ -81,7 +81,7 @@
 ![eBee](http://images.gizmag.com/inline/ebee-1.jpg)
 +++
 ### Fixed wing: Trimble UX5
-![UX5](http://www.geo-matching.com/upload/2192-general.jpg)
+![UX5](http://www.sitechsw.com/blog/media/2015/10/UX5b.jpg)
 +++
 ### Fixed Wing: 3DR Aero-M
 ![Aero Drone](http://www.droidika.com/wp-content/uploads/2015/04/001_aerom.jpg)

@@ -70,8 +70,8 @@ Many ways to group...
 +++
 ### UAS Classifications
 ##### For our purposes...
-> Weight: <55 lb
-> Speed:  <87 knots
+> Weight: <55 lb  
+> Speed:  <87 knots  
 > Altitude: <400' AGL
 ---
 ### small UAS/imaging drones

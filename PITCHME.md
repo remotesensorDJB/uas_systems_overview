@@ -61,13 +61,12 @@
  - Payload (cameras/sensors/etc)
  - Launch and recovery element (if required)
 ---
-### UAS Classifications
+### [UAS Classifications](https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf)
 Many ways to group...
 ![Classification Factors](images/classification-factors.JPG)
-https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf 
 +++
-### UAS Classifications
-![https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf](images/uas-classes.JPG)
+### [UAS Classifications](https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf)
+![UAS Classifications](images/uas-classes.JPG)
 https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf
 ### small UAS/imaging drones
 #### Fixed wing vs multirotor

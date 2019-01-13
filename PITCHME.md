@@ -1,4 +1,4 @@
-1/11/2019 1:42:15 PM @title[unmanned aerial systems research]
+@title[unmanned aerial systems research]
 ### small unmanned aerial systems (suas):
 #### an overview
 ##### GEOG 390/590 Spring 2019

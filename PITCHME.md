@@ -67,7 +67,12 @@ Many ways to group...
 +++
 ### [UAS Classifications](https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf)
 ![UAS Classifications](images/uas-classes.JPG)
-https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf
++++
+### UAS Classifications
+##### For our purposes...
+> Weight: <55 lb
+> Speed:  <87 knots
+> Altitude: <400' AGL
 ### small UAS/imaging drones
 #### Fixed wing vs multirotor
 - Fixed wing

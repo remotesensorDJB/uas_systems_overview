@@ -77,7 +77,7 @@
  - more complex (mechanically and electronically)
  - shorter flight times/smaller payloads
 +++
-### Fixed wing: eBee
+### Fixed wing: SenseFly eBee
 ![eBee](http://images.gizmag.com/inline/ebee-1.jpg)
 +++
 ### Fixed wing: Trimble UX5
@@ -87,16 +87,16 @@
 ![Aero Drone](http://www.droidika.com/wp-content/uploads/2015/04/001_aerom.jpg)
 +++
 ### Multirotor: DJI Phantom
-![Phantom](https://www.drone-world.com/media/catalog/product/cache/1/image/730x487/9df78eab33525d08d6e5fb8d27136e95/p/4/p4_pro_plus-v2.jpg)
+![Phantom](https://asset1.djicdn.com/images/360/phantom-4/draggable_360_v2/0_5.png)
 +++
 ### Multirotor: DJI Mavic Pro
-![Mavic](https://www.drone-world.com/media/catalog/product/cache/1/image/730x487/9df78eab33525d08d6e5fb8d27136e95/m/a/mavicpro_remote.jpg)
+![Mavic](https://d1rzxhvrtciqq1.cloudfront.net/images/listing_images/images/54950/big/baef22-86d9cd-dji-mavic-drone-.jpg?1487294466)
 +++
 ### Multirotor: 3DR X8
 ![X8](https://3dr.com/wp-content/uploads/2017/03/x8-m1.jpg)
 +++
-### Multirotor: DJI Matrice
-![Matrice](http://aerialmediapros.com/store/images/product/d/dji-matrice-600-build-your-own-custom-package.png)
+### Multirotor: DJI Matrice/Inspire
+![Matrice-Inspire](https://www.heliguy.com/blog/wp-content/uploads/2017/02/Heliguy-Matrice_200_VS_Matrice_600_Pro_VS_Inspire_2-Header-1000x523.png)
 +++
 ### Meow-lti-rotor: Orville the Drone Cat
 ![Orville the drone cat](https://www.youtube.com/embed/fsdLU6D5PMo?start=27)

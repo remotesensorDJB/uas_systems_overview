@@ -141,6 +141,12 @@ The UAS body/chassis, and the parts that make it "go".
 ### Brushless Stator Motors
 ![Motor Video](https://www.youtube.com/embed/bCEiOnuODac)
 +++
+### Battery Systems
+Typically *Lithium Polymer (LiPo)* types: Lightweight, charge quickly, and have *intelligent* battery management.
++++
+### Battery Systems
+Flight times range from 15-25 minutes for a singe DJI quad battery...bring extras! 
++++
 ### Propellers/Rotors
 A rotor is simply an *airfoil*, like an airplane wing.
 +++
@@ -194,6 +200,36 @@ First we need to know how the four forces interact to create motion in the three
 #### Putting it together
 ![Flight video](https://www.youtube.com/embed/PkbkO3e0ev0?start=114)
 ---
+### Flight Control and State Estimation Systems
+- Autopilot/Flight Computer
+- Inertial Measurement Units
+- MEMS Gyros
+- Magnetometer
+- Accelerometer
+- Air data computers
+- GPS/GNSS Navigation components
++++
+#### Autopilot/Flight Computer
+The *brain* of the drone, receiving information from various onboard sensors and control inputs from the remote controller, and translating them to adjustments to motor RPMs.
++++
+#### Autopilot/Flight Computer
+https://www.dronetrest.com/t/beginners-guide-to-drone-autopilots-flight-controllers-and-how-they-work/1380
++++
+#### Inertial Measurement Unit 
+Measure changes to the acceleration and orientation of the drone in order to resist external forces like wind, and to monitor response to control inputs. Calculates the aircraft's **ATTITUDE**.
++++
+#### Accelerometers
+Calculate acceleration forces through piezoelectric or capacitance based measurements.
+![accelerometer](images/accelerometer.jpg)
++++
+#### MEMS Gyroscopes
+Measure pitch/roll/and yaw
+Micro Electric Mechanical Systems
+![MEMS Gyro Video](https://www.youtube.com/embed/zwe6LEYF0j8)
++++
+#### Magnetometer
+
+
 
 
 

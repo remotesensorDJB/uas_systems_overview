@@ -155,7 +155,7 @@ The UAS body/chassis, and the parts that make it "go".
 Typically *Lithium Polymer (LiPo)* types: Lightweight, charge quickly, and have *intelligent* battery management.
 +++
 ### Battery Systems
-Flight times range from 15-25 minutes for a singe DJI quad battery...bring extras! 
+Flight times range from 15-25 minutes for a single DJI quad battery...bring extras! 
 +++
 ### Propellers/Rotors
 A rotor is simply an *airfoil*, like an airplane wing.

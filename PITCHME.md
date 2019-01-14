@@ -43,7 +43,10 @@
 ###### [Predator/Reaper drone (current era)](https://foxtrotalpha.jalopnik.com/the-air-force-is-retiring-the-predator-drone-for-the-mo-1792832541)
 +++
 Beyond military applications...
-![Drone Projections](images/drone-projections.png)
+![Drone Projections](images/drone-sales.png)
++++
+Globally...
+![Drone Sales Global](images/drone-growth.png)
 +++
 The FAA has awarded over 100,000 Part 107 RPIC Certifications in the first two years of the program!
 ---

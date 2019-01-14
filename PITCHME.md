@@ -171,9 +171,9 @@ First we need to know how the four forces interact to create motion in the three
 - Drag |
 +++
 ### Multirotor Flight
-- To @fa[arrow-up]: Lift > Weight |
-- To @fa[arrow-down]: Weight > Lift |
-- To @fa[arrow-right]: Thrust > Drag |
+- To @fa[angle-up]: Lift > Weight |
+- To @fa[angle-down]: Weight > Lift |
+- To @fa[angle-right]: Thrust > Drag |
 - To hover: Lift = Weight and Thrust = Drag |
 +++
 ### Multirotor Flight

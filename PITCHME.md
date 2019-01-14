@@ -203,9 +203,9 @@ First we need to know how the four forces interact to create motion in the three
 ### Flight Control and State Estimation Systems
 - Autopilot/Flight Computer
 - Inertial Measurement Units
-- MEMS Gyros
-- Magnetometer
 - Accelerometer
+- MEMS Gyroscopes
+- Magnetometer
 - Air data computers
 - GPS/GNSS Navigation components
 +++
@@ -228,8 +228,40 @@ Micro Electric Mechanical Systems
 ![MEMS Gyro Video](https://www.youtube.com/embed/zwe6LEYF0j8)
 +++
 #### Magnetometer
+A sensor that measures *magnetism*, including the Earth's magnetic field. Measurements from a *properly calibrated* magnetometer can be used as a compass.  
++++
+#### Magnetometer
+In a UAV, a magnetometer can measure the aircraft's *heading*, or its direction relative to North.  
++++
+#### Magnetometer
+Caution: Magnetometers suffer greatly from *interference* caused by other electromagnetic devices  
++++
+####  Air Data Computer
+Measures physical properties of the atmosphere, including temperature, atmospheric pressure, air speed, and altitude.
++++
+#### Air Data Computer
+##### Barometers
+Measures static air pressure, usually relative to the value measured at take off. A change in altitude corresponds to a proportional change in air pressure, and thus pressure readings may be used to calculate aircraft height AGL. 
++++ 
+#### GPS/GNSS Navigation
+A GPS/GNSS receiver and antenna calculates the aircraft's location and altitude through *trilateration* by measuring the *range* to a number of navigational satellites.
++++
 
-
+#### GPS/GNSS Navigation
+The *range* to a satellite is calculated from the propagation time of the satellite's transmission, which travels at the...
+- Speed of light |
++++
+#### GPS/GNSS Navigation
+![GPS Trilateration](images/gps-trilat.png)
++++
+#### GPS/GNSS Navigation
+GNSS drives many functions of the autopilot, including return to home, waypoint navigation/flight planning, automated "no fly" areas, etc.
++++
+#### GPS/GNSS Navigation
+*Real time kinematic* GNSS receivers can correct for various GNSS trilateration errors to greatly improve location accuracy. Found only on very high end drones.
++++
+#### DJI Phantom RTK
+![Phantom RTK](images/phantom-rtk.jpg)
 
 
 

@@ -312,10 +312,10 @@ Wifi spectrum analyzer apps for Android/iOS can be a useful tool in assessing th
 #### Control/Communications Systems
 ##### Range Considerations
 The transmission range of a given UAS system may be affected by the following considerations...
-- Distance: **typically in the 5km range for professional systems** |
-- Atmospheric Conditions: **high temperature/humidity can reduce range** |
-- Interference: **crowded frequency bands and metal equipment** |
-- Line of sight: **must maintain line of sight between AV and transmitter**
+- Distance: **~5km for professional systems** |
+- Atmospheric Conditions: **high temp/humidity reduce range** |
+- Interference: **crowded airwaves and metal equipment** |
+- Line of sight: **must maintain VLOS between UAV and transmitter** |
 +++
 #### Control/Communications Systems
 ##### Range Considerations

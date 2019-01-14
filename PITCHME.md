@@ -131,7 +131,7 @@ Many ways to group...
 UAS systems consist of a number of different subsystems fulfilling various functions...
 - 1.) Airframe and Powerplant |
 - 2.) Flight Control and State Estimation |
-- 3.) Communications |
+- 3.) Ground Control/Communications Systems |
 - 4.) Imaging Systems |
 +++
 ### Airframe and Powerplant
@@ -273,7 +273,61 @@ GNSS drives many functions of the autopilot, including return to home, waypoint 
 #### DJI Phantom RTK
 ![Phantom RTK](images/phantom-rtk.jpg)
 ---
-### Communications Systems
+### Control/Communications Systems
+The communications link for most small UAS systems consists of...
+- Receiver and antenna on-board the UAV
+- Transmitter and Antenna on Remote Controller
+- Ground control station (software/hardware)
++++
+#### Control/Communications Systems
+##### A generalized workflow 
+@css[fragment](Control inputs from the *joysticks* are encoded as radio signals...)@css[fragment](and sent to the UAV...)@css[fragment](where the flight controller interprets them and adjusts power to the motors accordingly.)
++++
+#### Control/Communications Systems
+##### A generalized workflow 
+@css[fragment](The UAV sends information about its position, status, and system health back to the controller...)@css[fragment](where it is interpreted and displayed on the control station screen)
++++
+#### Control/Communications Systems
+##### A generalized workflow 
+@css[fragment](Additionally...an image transmission signal from the UAV camera is sent back to the controller for a first-person-view or FPV live feed)
++++
+#### Control/Communications Systems
+Communications are sent and received over the 2.4Ghz and sometimes the 5.8Ghz frequency ranges. 
++++
+#### Control/Communications Systems
+This is the same frequency range that WiFi, bluetooth, and many other consumer electronics operate in.
++++
+#### Control/Communications Systems
+Interference can be a real problem in crowded radio environments
++++
+#### Control/Communications Systems
+Selecting a *channel* to minimize interference can yield success in challenging situations. 
++++
+#### Control/Communications Systems 
+Wifi spectrum analyzer apps for Android/iOS can be a useful tool in assessing the strength and busyness of 2.4Ghz and 5.8Ghz channels in effort to select the best one. 
++++
+#### Control/Communications Systems
+![Wifi Analyzer](images/wifi-analyzer.png)
++++
+#### Control/Communications Systems
+##### Range Considerations
+The transmission range of a given UAS system may be affected by the following considerations...
+- Distance: **typically in the 5km range for professional systems** |
+- Atmospheric Conditions: **high temperature/humidity can reduce range** |
+- Interference: **crowded frequency bands and metal equipment** |
+- Line of sight: **must maintain line of sight between AV and transmitter**
++++
+#### Control/Communications Systems
+##### Range Considerations
+Proper antenna placement...  
+![antenna placement](images/antenna.jpg)
++++
+#### Control/Communications Systems
+##### Range Considerations
+Signal boosters...
+![Signal Boosters](https://i.ytimg.com/vi/lZ1LBF_9VpQ/maxresdefault.jpg)
++++
+
 
 
 

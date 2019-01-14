@@ -172,8 +172,9 @@ First we need to know how the four forces interact to create motion in the three
 +++
 ### Multirotor Flight
 - To go **UP**:  
-- Lift > Weight | 
-- To go DOWN: Weight > Lift | 
+  - Lift > Weight | 
+- To go **DOWN**:
+  -  Weight > Lift | 
 - To go **FORWARD**: Thrust > Drag |
 - To **HOVER**: Lift = Weight and Thrust = Drag | 
 +++

@@ -138,7 +138,59 @@ The UAS body/chassis, and the parts that make it "go".
 ### Boom/Motor Mount/Motors
 ![boom/motor](images/boom-motors.JPG) 
 +++
+### Brushless Stator Motors
+![Motor Video](https://youtu.be/bCEiOnuODac)
 ### Propellers/Rotors
+A rotor is simply an *airfoil*, like an airplane wing.
++++
+### Propellers/Rotors
+It creates *lift* to overcome the *weight* f the aircraft
++++
+### Propellers/Rotors
+*Bernoulli's Principle* states that as a fluid (like air) is accelerated, its pressure decreases. 
++++
+### Propellers/Rotors
+![Bernoulli Flight](images/bernoulli.jpg)
++++ 
+### Propellers/Rotors
+Why is a rotary wing shaped the way it is?
+![DJI Prop](images/dji-prop.jpg)
++++
+### Multirotor Flight
+How does a multirotor UAV achieve directional flight?
++++
+### Multirotor Flight
+First we need to know how the four forces interact to create motion in the three axes of flight.
++++
+### Multirotor flight
+##### The Four Forces
+- Lift |
+- Weight |
+- Thrust |
+- Drag |
++++
+### Multirotor Flight
+- To @fa[fa-arrow-up]: Lift > Weight |
+- To @fa[fa-arrow-down]: Weight > Lift |
+- To @fa[fa-arrow-right]: Thrust > Drag |
+- To hover: Lift = Weight and Thrust = Drag |
++++
+### Multirotor Flight
+##### Three axes of flight
+- Pitch (nose up/down) |
+- Roll (wings tilt left/right) |
+- Yaw (nose moves left/right) |
++++
+### Multirotor Flight
+##### Three axes of flight
+![three axes](http://1.bp.blogspot.com/-iBXeo5PZ68s/Ulxu3N2tuKI/AAAAAAAABxI/3sK5z4HvUPA/s1600/Pitch,+Roll,+&+Yaw.jpg)
++++
+### Multirotor Flight
+#### Putting it together
+![Flight video](https://youtu.be/PkbkO3e0ev0?t=114)
+---
+
+
 
 
 

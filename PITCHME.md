@@ -139,12 +139,13 @@ The UAS body/chassis, and the parts that make it "go".
 ![boom/motor](images/boom-motors.JPG) 
 +++
 ### Brushless Stator Motors
-![Motor Video](https://youtu.be/bCEiOnuODac)
+![Motor Video](https://www.youtube.com/embed/bCEiOnuODac)
++++
 ### Propellers/Rotors
 A rotor is simply an *airfoil*, like an airplane wing.
 +++
 ### Propellers/Rotors
-It creates *lift* to overcome the *weight* f the aircraft
+It creates *lift* to overcome the *weight* of the aircraft
 +++
 ### Propellers/Rotors
 *Bernoulli's Principle* states that as a fluid (like air) is accelerated, its pressure decreases. 

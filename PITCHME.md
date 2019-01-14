@@ -188,7 +188,7 @@ First we need to know how the four forces interact to create motion in the three
 +++
 ### Multirotor Flight
 #### Putting it together
-![Flight video](https://youtu.be/PkbkO3e0ev0?t=114)
+![Flight video](https://www.youtube.com/embed/PkbkO3e0ev0?start=114)
 ---
 
 

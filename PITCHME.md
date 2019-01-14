@@ -258,7 +258,7 @@ The *range* to a satellite is calculated from the propagation time of the satell
 GNSS drives many functions of the autopilot, including return to home, waypoint navigation/flight planning, automated "no fly" areas, etc.
 +++
 #### GPS/GNSS Navigation
-*Real time kinematic* GNSS receivers can correct for various GNSS trilateration errors to greatly improve location accuracy. Found only on very high end drones.
+*Real time kinematic (RTK)* GNSS receivers can correct for various GNSS trilateration errors to greatly improve location accuracy. Found only on very high end drones.
 +++
 #### DJI Phantom RTK
 ![Phantom RTK](images/phantom-rtk.jpg)

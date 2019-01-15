@@ -294,7 +294,7 @@ The communications link for most small UAS systems consists of...
 @css[fragment](Additionally...an image transmission signal from the UAV camera is sent back to the controller for a first-person-view or FPV live feed)
 +++
 #### Control/Communications Systems
-Communications are sent and received over the 2.4Ghz and sometimes the 5.8Ghz frequency ranges...@css[fragment](the same frequency range that WiFi, bluetooth, and many other consumer electronics operate in...)@css[fragment](Interference can be a real problem in crowded radio environments.)
+Communications are sent and received over the 2.4Ghz and sometimes the 5.8Ghz frequency ranges...@css[fragment](the same frequency range that **WiFi, bluetooth**, and many other consumer electronics operate in...)@css[fragment](**Interference** can be a real problem in crowded radio environments.)
 +++
 #### Control/Communications Systems
 Selecting a *channel* to minimize interference can yield success in challenging situations. 

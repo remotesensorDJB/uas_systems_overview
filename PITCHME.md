@@ -241,7 +241,7 @@ Micro Electric Mechanical Systems
 +++
 #### Obstacle Avoidance Sensors
 Prevent the aircraft from colliding with nearby objects/terrain.  
-@css[fragment](Use *ultrasonic* sensing {echolocation})@cass[fragment]( or *infrared* imaging {heat signatures}@css[fragment]( or *stereoscopic* imaging {3D parallax} to measure distance to nearby obstacles.)  
+@css[fragment](Use *ultrasonic* sensing %28echolocation%29) @css[fragment]( or *infrared* imaging {heat signatures})@css[fragment]( or *stereoscopic* imaging {3D parallax} to measure distance to nearby obstacles.)  
 #### Magnetometer
 A sensor that measures *magnetism*, including the Earth's magnetic field. Measurements from a *properly calibrated* magnetometer can be used as a compass.  
 +++

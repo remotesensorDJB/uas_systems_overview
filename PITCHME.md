@@ -189,7 +189,7 @@ First we need to know how the four forces interact to create motion in the three
 - To go **UP**:  
   - Lift > Weight | 
 - To go **DOWN**:
-  -  Weight > Lift | 
+  -  Lift < Weight | 
 - To go **FORWARD**: 
   - Thrust > Drag |
 - To **HOVER**: 

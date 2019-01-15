@@ -209,6 +209,8 @@ First we need to know how the four forces interact to create motion in the three
 ### Multirotor Flight
 #### Putting it together
 ![Flight video](https://www.youtube.com/embed/PkbkO3e0ev0?start=114)
++++
+If the basis for multirotor flight is modulating the motors to achieve the desired result, just HOW does it know what to do? How does it know to correct for a wind gust? 
 ---
 ### Flight Control and State Estimation Systems
 - Autopilot/Flight Computer

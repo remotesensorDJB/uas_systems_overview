@@ -327,6 +327,81 @@ Proper antenna placement...
 Signal boosters...
 ![Signal Boosters](https://i.ytimg.com/vi/lZ1LBF_9VpQ/maxresdefault.jpg)
 +++
+#### Imaging Systems
+Comprised of...
+- Camera/Imaging Sensor |
+- Gimbals/Image Stabilization Elements |
+- Control Element |
++++
+#### Imaging Systems
+##### Camera Basics
+![Digital Camera](images/digital_camera.jpg)
++++
+#### Imaging Systems
+##### Camera Basics: Resolution
+When referring to a digital camera, *resolution* is defined by the number of photosites/pixels that the sensr is comprised of.  
+Typically referenced by megapixels (millions of pixels).
++++
+#### Imaging Systems
+##### Camera Basics: Resolution
+![UAS Table](images/uas_table.JPG)
++++
+#### Imaging Systems
+##### Camera Basics: Sensor Size
+The physical size of the sensor dictates the size of each pixel, and thus the quantity of light each pixel can collect. A larger sensor can collect more light than a smaller sensor, yielding reduced noise and higher image quality. 
++++
+#### Imaging Systems
+##### Camera Basics: Sensor Size
+![Sensor Sizes](images/Sensor-Sizes.png)
++++
+#### Imaging Systems
+##### Camera Basics: Focal Length
+The focal length of the camera's lens dictates the *field of view*. Many drone cameras have fixed focal lengths from 21mm-28mm. This is a wide angle focal length.  
+  
+For example the DJI Phantom 4 Pro has a focal length of 24mm, and a field of view of 84°.
++++
+#### Imaging Systems
+##### Camera Basics: Focal Length
+In practice, a wider field of view generates a larger image footprint at a fixed distance than a narrower field of view (longer focal length)...  
+  
+@css[fragment](But a longer focal length generates a smaller ground sampling distance, or GSD, which means increased ability to resolve features on the ground)  
+  
+@css[fragment](There are always tradeoffs!)
++++
+
+#### Imaging Systems
+##### Camera Basics: Exposure
+Image *total exposure* is the total amount of light captured by the sensor for a particular image. It is controlled by three main factors:
+- Shutter Speed: How long the shutter stays open
+- Aperture: The size of the opening in the lens through which light may pass
+- Sensitivity: The "gain" setting of the sensor
++++
+#### Imaging Systems
+##### Camera Basics: Exposure 
+*Shutter speed* is expressed as the fraction of a second (i.e. 1/60) during which the shutter is open.  
+Higher shutter speeds are necessary to freeze motion and prevent blurring. 1/500 is a safe selection for stopping motion.
++++
+#### Imaging Systems
+##### Camera Basics: Exposure
+*Aperture* is expressed as an *f-stop* number, with smaller numbers (i.e. f1.8) being larger than smaller numbers (i.e. f16).  Aperture also control *depth of field* or the area in the image that is in focus.
+![Aperture](image/aperture.jpg)
++++
+#### Imaging Systems
+##### Camera Basics: Exposure
+*Sensitivity*, or *ISO* (formerly called *film speed*) is expressed as an *ISO number* (i.e. ISO 100, ISO 800, etc).  
+A higher ISO number increases the sensitivity of the sensor to capture more light, but also increases the amount of *noise*, reducing image quality. 
+![iso](iso.jpg)
++++
+#### Imaging Systems
+##### Gimbals/Image Stablilization
+A *gimbal* is a gyroscopic device that stabilizes a camera/sensor upon one or more of the axes of motion.
+IMUs measure changes in orientation, and brushless motors adjust the camera to counteract the motion.
++++
+#### Imaging Systems
+##### Gimbals/Image Stablilization
+A gimbal may stabilize the camera in   
+
+ 
 
 
 

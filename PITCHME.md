@@ -406,7 +406,7 @@ A comparison
 #### Imaging Systems
 ##### Control Element
 Software-based, through flight control app  
-![Camera Controls](https://forum44.djicdn.com/data/attachment/forum/201703/07/191000hl0idid0aaukn5lx.jpeg)
+![Camera Controls](https://cdn10.bigcommerce.com/s-3sy6wxm/product_images/uploaded_images/dji-x5-djigo.png?t=1443654499)
 ---
 #### Accessories for Field Ops
 Ground control targets

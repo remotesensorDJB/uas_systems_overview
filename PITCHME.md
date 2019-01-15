@@ -52,79 +52,79 @@ The FAA has awarded over 100,000 Part 107 RPIC Certifications in the first two y
 ---
 ### Modern Small Unmanned Aerial Systems
 +++
-### A definition
+#### A definition
 > Unmanned Aerial Systems (UAS) consist of...
 > - an unmanned aerial vehicle (UAV/RPV/drone)
 > - a ground-based controller/operator
 > - communications between the two
 ---
 @title[Modern small UAS]
-### small UAS/imaging drones
+#### small UAS/imaging drones
 - Standard Elements
  - UAV/drone 
  - Mission planning element
  - Command and control element
 +++
-### small UAS/imaging drones
+#### small UAS/imaging drones
 - Standard Elements
  - Communication link
  - Payload (cameras/sensors/etc)
  - Launch and recovery element (if required)
 ---
-### [UAS Classifications](https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf)
+#### [UAS Classifications](https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf)
 Many ways to group...
 ![Classification Factors](images/classification-factors.JPG)
 +++
-### [UAS Classifications](https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf)
+#### [UAS Classifications](https://shemesh.larc.nasa.gov/people/jmm/NASA-TM-2013-217969.pdf)
 ![UAS Classifications](images/uas-classes.JPG)
 +++
-### UAS Classifications
+#### UAS Classifications
 ##### For our purposes...
 > Weight: <55 lb  
 > Speed:  <87 knots  
 > Altitude: <400' AGL
 ---
-### small UAS/imaging drones
-#### Fixed wing vs multirotor
+#### small UAS/imaging drones
+##### Fixed wing vs multirotor
 - Fixed wing
  - Simpler structure
  - Greater endurance/flight time
  - Bigger payloads (larger sensors)
  - No stationary flight
 +++
-### small UAS/imaging drones
-#### Fixed wing vs multirotor
+#### small UAS/imaging drones
+##### Fixed wing vs multirotor
 - Multirotor
  - vertical takeoff and landing
  - hovering/precise maneuvering
  - more complex (mechanically and electronically)
  - shorter flight times/smaller payloads
 +++
-### Fixed wing: SenseFly eBee
+#### Fixed wing: SenseFly eBee
 ![eBee](http://images.gizmag.com/inline/ebee-1.jpg)
 +++
-### Fixed wing: Trimble UX5
+#### Fixed wing: Trimble UX5
 ![UX5](http://www.sitechsw.com/blog/media/2015/10/UX5b.jpg)
 +++
-### Fixed Wing: 3DR Aero-M
+#### Fixed Wing: 3DR Aero-M
 ![Aero Drone](http://www.droidika.com/wp-content/uploads/2015/04/001_aerom.jpg)
 +++
-### Multirotor: DJI Phantom
+#### Multirotor: DJI Phantom
 ![Phantom](https://asset1.djicdn.com/images/360/phantom-4/draggable_360_v2/0_5.png)
 +++
-### Multirotor: DJI Mavic Pro
+#### Multirotor: DJI Mavic Pro
 ![Mavic](https://d1rzxhvrtciqq1.cloudfront.net/images/listing_images/images/54950/big/baef22-86d9cd-dji-mavic-drone-.jpg?1487294466)
 +++
-### Multirotor: 3DR X8
+#### Multirotor: 3DR X8
 ![X8](https://3dr.com/wp-content/uploads/2017/03/x8-m1.jpg)
 +++
-### Multirotor: DJI Matrice/Inspire
+#### Multirotor: DJI Matrice/Inspire
 ![Matrice-Inspire](https://www.heliguy.com/blog/wp-content/uploads/2017/02/Heliguy-Matrice_200_VS_Matrice_600_Pro_VS_Inspire_2-Header-1000x523.png)
 +++
-### Common UAS models
+#### Common UAS models
 ![UAS Table](images/uas_table.JPG)
 +++
-### Meow-lti-rotor: Orville the Drone Cat
+#### Meow-lti-rotor: Orville the Drone Cat
 ![Orville the drone cat](https://www.youtube.com/embed/fsdLU6D5PMo?start=27)
 ---
 ### UAS Subsystems
@@ -134,59 +134,59 @@ UAS systems consist of a number of different subsystems fulfilling various funct
 - 3.) Ground Control/Communications Systems |
 - 4.) Imaging Systems |
 +++
-### Airframe and Powerplant
+#### Airframe and Powerplant
 The UAS body/chassis, and the parts that make it "go".
 +++
-### General Anatomy
-#### Multirotor
+#### General Anatomy
+##### Multirotor
 ![drone anatomy](images/drone-anatomy.JPG)
 +++
-### General Anatomy
-#### Fixed Wing
+#### General Anatomy
+##### Fixed Wing
 ![drone anatomy](images/fixed-wing-anatomy.JPG)
 +++ 
-### Boom/Motor Mount/Motors
+#### Boom/Motor Mount/Motors
 ![boom/motor](images/boom-motors.JPG) 
 +++
-### Brushless Stator Motors
+#### Brushless Stator Motors
 ![Motor Video](https://www.youtube.com/embed/bCEiOnuODac)
 +++
-### Battery Systems
+#### Battery Systems
 Typically *Lithium Polymer (LiPo)* types: Lightweight, charge quickly, and have *intelligent* battery management.
 +++
-### Battery Systems
+#### Battery Systems
 Flight times range from 15-25 minutes for a single DJI quad battery...bring extras! 
 +++
-### Propellers/Rotors
+#### Propellers/Rotors
 A rotor is simply an *airfoil*, like an airplane wing.
 +++
-### Propellers/Rotors
+#### Propellers/Rotors
 It creates *lift* to overcome the *weight* of the aircraft
 +++
-### Propellers/Rotors
+#### Propellers/Rotors
 *Bernoulli's Principle* states that as a fluid (like air) is accelerated, its pressure decreases. 
 +++
-### Propellers/Rotors
+#### Propellers/Rotors
 ![Bernoulli Flight](images/bernoulli.jpg)
 +++ 
-### Propellers/Rotors
+#### Propellers/Rotors
 Why is a rotary wing shaped the way it is?
 ![DJI Prop](images/dji-prop.jpg)
 +++
-### Multirotor Flight
+#### Multirotor Flight
 How does a multirotor UAV achieve directional flight?
 +++
-### Multirotor Flight
+#### Multirotor Flight
 First we need to know how the four forces interact to create motion in the three axes of flight.
 +++
-### Multirotor flight
+#### Multirotor flight
 ##### The Four Forces
 - Lift |
 - Weight |
 - Thrust |
 - Drag |
 +++
-### Multirotor Flight
+#### Multirotor Flight
 - To go **UP**:  
   - Lift > Weight | 
 - To go **DOWN**:
@@ -196,18 +196,18 @@ First we need to know how the four forces interact to create motion in the three
 - To **HOVER**: 
   - Lift = Weight and Thrust = Drag | 
 +++
-### Multirotor Flight
+#### Multirotor Flight
 ##### Three axes of flight
 - Pitch (nose up/down) |
 - Roll (wings tilt left/right) |
 - Yaw (nose moves left/right) |
 +++
-### Multirotor Flight
+#### Multirotor Flight
 ##### Three axes of flight
 ![three axes](http://1.bp.blogspot.com/-iBXeo5PZ68s/Ulxu3N2tuKI/AAAAAAAABxI/3sK5z4HvUPA/s1600/Pitch,+Roll,+&+Yaw.jpg)
 +++
-### Multirotor Flight
-#### Putting it together
+#### Multirotor Flight
+##### Putting it together
 ![Flight video](https://www.youtube.com/embed/PkbkO3e0ev0?start=114)
 +++
 If the basis for multirotor flight is modulating the motors to achieve the desired result, just HOW does it know what to do? How does it know to correct for a wind gust? 
@@ -294,19 +294,13 @@ The communications link for most small UAS systems consists of...
 @css[fragment](Additionally...an image transmission signal from the UAV camera is sent back to the controller for a first-person-view or FPV live feed)
 +++
 #### Control/Communications Systems
-Communications are sent and received over the 2.4Ghz and sometimes the 5.8Ghz frequency ranges. 
-+++
-#### Control/Communications Systems
-This is the same frequency range that WiFi, bluetooth, and many other consumer electronics operate in.
-+++
-#### Control/Communications Systems
-Interference can be a real problem in crowded radio environments
+Communications are sent and received over the 2.4Ghz and sometimes the 5.8Ghz frequency ranges...@css[fragment](the same frequency range that WiFi, bluetooth, and many other consumer electronics operate in...)@css[fragment](Interference can be a real problem in crowded radio environments.)
 +++
 #### Control/Communications Systems
 Selecting a *channel* to minimize interference can yield success in challenging situations. 
 +++
 #### Control/Communications Systems 
-Wifi spectrum analyzer apps for Android/iOS can be a useful tool in assessing the strength and busyness of 2.4Ghz and 5.8Ghz channels in effort to select the best one. 
+Wifi spectrum analyzer apps for Android/iOS can be useful in assessing the strength and busyness of 2.4Ghz/5.8Ghz channels
 +++
 #### Control/Communications Systems
 ![Wifi Analyzer](images/wifi-analyzer.png)
@@ -315,9 +309,8 @@ Wifi spectrum analyzer apps for Android/iOS can be a useful tool in assessing th
 ##### Range Considerations
 The transmission range of a given UAS system may be affected by the following considerations...
 - Distance: **~5km for professional systems** |
-- Atmospheric Conditions: **high temp/humidity reduce range** |
-- Interference: **crowded airwaves and metal equipment** |
-- Line of sight: **must maintain VLOS between UAV and transmitter** |
+- Interference: **crowded airwaves/metal equipment** |
+- Line of sight: **maintain VLOS between UAV & contoller** |
 +++
 #### Control/Communications Systems
 ##### Range Considerations
@@ -329,7 +322,7 @@ Proper antenna placement...
 Signal boosters...
 ![Signal Boosters](https://i.ytimg.com/vi/lZ1LBF_9VpQ/maxresdefault.jpg)
 +++
-#### Imaging Systems
+### Imaging Systems
 Comprised of...
 - Camera/Imaging Sensor |
 - Gimbals/Image Stabilization Elements |
@@ -409,24 +402,30 @@ IMUs measure changes in orientation, and brushless motors adjust the camera to c
 ##### Gimbals/Image Stablilization
 A comparison
 ![Gimbal Compare](https://www.youtube.com/embed/nwIGXOj9Soc)
++++
+#### Imaging Systems
+##### Control Element
+Software-based, through flight control app  
+![Camera Controls](https://forum44.djicdn.com/data/attachment/forum/201703/07/191000hl0idid0aaukn5lx.jpeg)
 ---
-### Accessories for Field Use
+#### Accessories for Field Ops
 Ground control targets
 ![Ground Control Targets](https://lh5.googleusercontent.com/_7YMIKDGeJN0/TI6xizqz9vI/AAAAAAAALRA/M-ES0miIyLY/s1600/DSC00160.JPG)
 +++
-### Accessories for Field Use
+#### Accessories for Field Ops
 GNSS/GPS Data Collectors
 ![GNSS](https://www.sepshop.co.uk/wp-content/uploads/2018/10/1.jpg)
 +++
-### Accessories for Field Use
+#### Accessories for Field Ops
 Spotting Equipment
 ![Spotting](https://www.outdoorlife.com/sites/outdoorlife.com/files/styles/1000_1x_/public/import/2014/import/Image/2013/photo/1001321579/opticsopener.jpg?itok=oWZTo3I7)
 +++
-### Accessories for Field Use
+#### Accessories for Field Ops
 Handheld Radios
 ![Walkie Talkies](https://cdn7.dissolve.com/p/D237_83_491/D237_83_491_1200.jpg)
 +++
-### Accessories for Field Use
+
+#### Accessories for Field Ops
 Landing Pads
 ![Landing Pad](https://cdn3.volusion.com/awcju.somha/v/vspfiles/photos/hoodman_5_ft_landing_pad-2.jpg)
 

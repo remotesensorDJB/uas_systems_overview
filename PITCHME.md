@@ -239,20 +239,23 @@ Measure pitch/roll/and yaw
 Micro Electric Mechanical Systems
 ![MEMS Gyro Video](https://www.youtube.com/embed/zwe6LEYF0j8)
 +++
+#### Obstacle Avoidance Sensors
+Prevent the aircraft from colliding with nearby objects/terrain.  
+@css[fragment](Use *ultrasonic* sensing {echolocation})@cass[fragment]( or *infrared* imaging {heat signatures}@css[fragment]( or *stereoscopic* imaging {3D parallax} to measure distance to nearby obstacles.)  
 #### Magnetometer
 A sensor that measures *magnetism*, including the Earth's magnetic field. Measurements from a *properly calibrated* magnetometer can be used as a compass.  
 +++
 #### Magnetometer
-In a UAV, a magnetometer can measure the aircraft's *heading*, or its direction relative to North.  
+In a UAV, a magnetometer can measure the aircraft's *heading*, or its direction relative to magnetic North.  
 +++
 #### Magnetometer
-Caution: Magnetometers suffer greatly from *interference* caused by other electromagnetic devices  
+Caution: Magnetometers suffer from *interference* caused by other electromagnetic devices  
 +++
 ####  Air Data Computer
 Measures physical properties of the atmosphere, including temperature, atmospheric pressure, air speed, and altitude.
 +++
 #### Air Data Computer
-##### Barometers
+##### Barometer
 Measures static air pressure, usually relative to the value measured at take off. A change in altitude corresponds to a proportional change in air pressure, and thus pressure readings may be used to calculate aircraft height AGL. 
 +++ 
 #### GPS/GNSS Navigation
@@ -268,12 +271,6 @@ The *range* to a satellite is calculated from the propagation time of the satell
 +++
 #### GPS/GNSS Navigation
 GNSS drives many functions of the autopilot, including return to home, waypoint navigation/flight planning, automated "no fly" areas, etc.
-+++
-#### GPS/GNSS Navigation
-*Real time kinematic (RTK)* GNSS receivers can correct for various GNSS trilateration errors to greatly improve location accuracy. Found only on very high end drones.
-+++
-#### DJI Phantom RTK
-![Phantom RTK](images/phantom-rtk.jpg)
 ---
 ### Control/Communications Systems
 The communications link for most small UAS systems consists of...

@@ -158,10 +158,9 @@ Typically *Lithium Polymer (LiPo)* types: Lightweight, charge quickly, and have 
 Flight times range from 15-25 minutes for a single DJI quad battery...bring extras! 
 +++
 #### Propellers/Rotors
-A rotor is simply an *airfoil*, like an airplane wing.
-+++
-#### Propellers/Rotors
-It creates *lift* to overcome the *weight* of the aircraft
+A rotor is simply an *airfoil*, like an airplane wing...  
+  
+@css[fragment](It creates *lift* to overcome the *weight* of the aircraft)
 +++
 #### Propellers/Rotors
 *Bernoulli's Principle* states that as a fluid (like air) is accelerated, its pressure decreases. 
@@ -215,26 +214,29 @@ If the basis for multirotor flight is modulating the motors to achieve the desir
 ### Flight Control and State Estimation Systems
 - Autopilot/Flight Computer
 - Inertial Measurement Units
-- Accelerometer
-- MEMS Gyroscopes
+- Obstacle Avoidance Sensors
 - Magnetometer
-- Air data computers
+- Air data computer
 - GPS/GNSS Navigation components
 +++
 #### Autopilot/Flight Computer
-The *brain* of the drone, receiving information from various onboard sensors and control inputs from the remote controller, and translating them to adjustments to motor RPMs.
+The *brain* of the UAV, receiving information from various onboard sensors and control inputs from the remote controller, and translating them via an *Electronic Speed Contoller* to make adjustments to motor RPMs.
 +++
 #### Autopilot/Flight Computer
 https://www.dronetrest.com/t/beginners-guide-to-drone-autopilots-flight-controllers-and-how-they-work/1380
 +++
-#### Inertial Measurement Unit 
-Measure changes to the acceleration and orientation of the drone in order to resist external forces like wind, and to monitor response to control inputs. Calculates the aircraft's **ATTITUDE**.
+#### Inertial Measurement Unit (IMU)
+Measure changes to the acceleration and orientation of the drone in order to resist external forces like wind, and to monitor response to control inputs. Calculates the aircraft's **ATTITUDE**...
+    
+@css[fragment](Comprised of *Accelerometers* and *Gyroscopes*)
 +++
-#### Accelerometers
+#### Inertial Measurement Unit (IMU)
+##### Accelerometers
 Calculate acceleration forces through piezoelectric or capacitance based measurements.
 ![accelerometer](images/accelerometer.jpg)
 +++
-#### MEMS Gyroscopes
+#### Inertial Measurement Unit (IMU)
+##### MEMS Gyroscopes
 Measure pitch/roll/and yaw  
 Micro Electric Mechanical Systems
 ![MEMS Gyro Video](https://www.youtube.com/embed/zwe6LEYF0j8)

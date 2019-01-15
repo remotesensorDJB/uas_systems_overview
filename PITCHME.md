@@ -428,6 +428,16 @@ Handheld Radios
 #### Accessories for Field Ops
 Landing Pads
 ![Landing Pad](https://cdn3.volusion.com/awcju.somha/v/vspfiles/photos/hoodman_5_ft_landing_pad-2.jpg)
++++
+### Wrap-up Disclaimer!
+While many UAS systems share common technology and operating procedures...  
+  
+@css[fragment](they are **all** unique in some ways!)  
+  
+@css[fragment](**ALWAYS** read and comprehend the owner's manual for your UAS prior to flying!)  
+  
+@css[fragment](https://dl.djicdn.com/downloads/phantom_4_pro/Phantom+4+Pro+Pro+Plus+User+Manual+v1.0.pdf)
+
 
 
 

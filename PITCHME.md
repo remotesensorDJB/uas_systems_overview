@@ -278,7 +278,7 @@ GNSS drives many functions of the autopilot, including return to home, waypoint 
 ### Control/Communications Systems
 The communications link for most small UAS systems consists of...
 - Receiver and antenna on-board the UAV
-- Transmitter and Antenna on Remote Controller
+- Transmitter and antenna on Remote Controller
 - Ground control station (software/hardware)
 +++
 #### Control/Communications Systems
@@ -341,7 +341,7 @@ Comprised of...
 +++
 #### Imaging Systems
 ##### Camera Basics: Resolution
-When referring to a digital camera, *resolution* is defined by the number of photosites/pixels that the sensr is comprised of.  
+When referring to a digital camera, *resolution* is defined by the number of photosites/pixels that the sensor is comprised of.  
 Typically referenced by megapixels (millions of pixels).
 +++
 #### Imaging Systems
@@ -386,13 +386,13 @@ Higher shutter speeds are necessary to freeze motion and prevent blurring. 1/500
 #### Imaging Systems
 ##### Camera Basics: Exposure
 *Aperture* is expressed as an *f-stop* number, with smaller numbers (i.e. f1.8) being larger than smaller numbers (i.e. f16).  Aperture also control *depth of field* or the area in the image that is in focus.
-![Aperture](image/aperture.jpg)
+![Aperture](images/aperture.jpg)
 +++
 #### Imaging Systems
 ##### Camera Basics: Exposure
 *Sensitivity*, or *ISO* (formerly called *film speed*) is expressed as an *ISO number* (i.e. ISO 100, ISO 800, etc).  
 A higher ISO number increases the sensitivity of the sensor to capture more light, but also increases the amount of *noise*, reducing image quality. 
-![iso](iso.jpg)
+![iso](images/iso.jpg)
 +++
 #### Imaging Systems
 ##### Gimbals/Image Stablilization

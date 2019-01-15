@@ -339,6 +339,10 @@ Typically referenced by megapixels (millions of pixels).
 +++
 #### Imaging Systems
 ##### Camera Basics: Resolution
+![Resolution](http://www.ashapirostudios.com/wp-content/uploads/2014/01/BayerWithDimensions.png)
++++
+#### Imaging Systems
+##### Camera Basics: Resolution
 ![UAS Table](images/uas_table.JPG)
 +++
 #### Imaging Systems

@@ -235,7 +235,7 @@ Calculate acceleration forces through piezoelectric or capacitance based measure
 ![accelerometer](images/accelerometer.jpg)
 +++
 #### MEMS Gyroscopes
-Measure pitch/roll/and yaw
+Measure pitch/roll/and yaw  
 Micro Electric Mechanical Systems
 ![MEMS Gyro Video](https://www.youtube.com/embed/zwe6LEYF0j8)
 +++
